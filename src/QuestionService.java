@@ -64,8 +64,7 @@ public class QuestionService {
             selection[i] = sc.nextLine().trim().toUpperCase();
         }
 
-        // Don't close Scanner(System.in)
-        // sc.close();
+    
     }
 
     public void calcScore() {
