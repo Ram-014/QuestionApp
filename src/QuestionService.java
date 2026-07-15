@@ -81,7 +81,7 @@ public class QuestionService {
             }
         }
 
-        System.out.println("\n==========================");
+        System.out.println("\n==========+===============");
         System.out.println("Your Score : " + score + "/" + questions.length);
         System.out.println("==========================");
     }
